@@ -26,7 +26,7 @@
     </div>
     <hr>
 
-    {{-- 用户发布的内容 --}}
+   {{-- 用户发布的内容 --}}
     <div class="card ">
       <div class="card-body">
         <ul class="nav nav-tabs">
@@ -49,6 +49,6 @@
       </div>
     </div>
 
-  </div>
+    </div>
 </div>
 @stop
